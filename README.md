@@ -17,7 +17,7 @@
 
 ## 背景介绍
 
-`deep-learning-for-Remote-Sensing-Image` 是一个专注于使用深度学习技术来进行遥感图像土地分割和分类的项目。本仓库提供了两个主要的框架及其相应的代码实现：
+`deep-learning-for-Remote-Sensing-Image` 是一个专注于使用深度学习技术来进行遥感图像土地分类（classification）和分割（Segmentation）的项目。本仓库提供了两个主要的框架及其相应的代码实现：
 
 1. **基于Patch块的卷积神经网络（CNN）框架**：该方法将遥感图像逐像素为中心划分为多个小的Patch块，基于Patch块提取特征并分类。此方法适用于处理高分辨率遥感图像，能够有效捕捉局部特征。
 
@@ -186,3 +186,9 @@ pip install -r requirements.txt
 ## 许可证
 
 本项目使用 [MIT License](LICENSE) 进行许可。
+
+## 合作交流
+
+Feiya Shu：shufeiya@gmail.com
+Qinxin Wu：2410766684@qq.com
+Jingmiao Cao：07212568@cumt.edu.cn
