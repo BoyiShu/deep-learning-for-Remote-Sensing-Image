@@ -89,10 +89,10 @@
 ## 提供模型
 
 | 模型名称                          | 论文链接       |
-|-----------------------------------|------------|
-| **FCN**                           |            |
+|------------------------------------|------------|
+| **FCN**                            |            |
 | fcn_resnet50                       |            |
-| vgg16unet                         |            |
+| vgg16unet                          |            |
 | deeplabv3_resnet50                 |            |
 | **ResNet**                         |            |
 | resnet34                           |            |
@@ -191,7 +191,7 @@ pip install -r requirements.txt
 本项目使用 [MIT License](LICENSE) 进行许可。
 
 ## 合作交流
-我们正在努力构建这个项目，如果您有兴趣欢迎联系与加入我们！   
+项目正在持续建设中，如果您有兴趣欢迎联系与加入我们！   
 Feiya Shu：shufeiya@gmail.com   
 Qinxin Wu：2410766684@qq.com   
 Jingmiao Cao：07212568@cumt.edu.cn   
