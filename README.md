@@ -178,17 +178,17 @@ pip install -r requirements.txt
 
 2. 运行 `visualization_feature_map.py` 进行特征图可视化：
 
+## 感谢
 
-## 贡献
-
-欢迎贡献代码和提出问题！如果您有任何建议或发现了问题，请提交一个Issue或Pull Request。
+该项目灵感来源于 **[deep-learning-for-image-processing]([https://github.com/qubvel/segmentation_models.pytorch](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing))** 
 
 ## 许可证
 
 本项目使用 [MIT License](LICENSE) 进行许可。
 
 ## 合作交流
-
+我们正在努力构建这个项目，如果您有兴趣欢迎联系与加入我们！
 Feiya Shu：shufeiya@gmail.com
 Qinxin Wu：2410766684@qq.com
 Jingmiao Cao：07212568@cumt.edu.cn
+同时，欢迎贡献代码和提出问题！如果您有任何建议或发现了问题，请提交一个Issue或Pull Request。
