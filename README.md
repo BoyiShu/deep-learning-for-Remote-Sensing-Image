@@ -46,7 +46,7 @@
     - shufflenet_model.py: ShuffleNet模型
     - vgg_model.py: VGG模型
   - script/  训练脚本
-    - btach-train.py 批量训练脚本
+    - batch-train.py 批量训练脚本
     - train.py: 单次训练脚本
   - tools/  工具包模块
     - engine.py: 初始化搭建模型、训练辅助
@@ -67,6 +67,9 @@
     - martix-class.py: 类别精度评价
     - predict.py: 预测脚本
   - model/  模型调用模块（可自行添加模型）
+    - backbone/
+      - mobilenet_backbone.py
+      - resnet_backbone.py
     - deeplabv3_model.py: DeepLabV3模型
     - fcn_model.py: FCN模型
     - mobilenet_unet.py: MobileNet-Unet模型
