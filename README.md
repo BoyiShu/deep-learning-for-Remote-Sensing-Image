@@ -193,5 +193,4 @@ pip install -r requirements.txt
 ## 合作交流
 项目正在持续建设中，如果您有兴趣欢迎联系与加入我们！   
 Feiya Shu：shufeiya@gmail.com   
-Jingmiao Cao：07212568@cumt.edu.cn   
 同时，欢迎贡献代码和提出问题！如果您有任何建议或发现了问题，请提交一个Issue或Pull Request。
